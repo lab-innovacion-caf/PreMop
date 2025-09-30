@@ -1,0 +1,23 @@
+ACRONYMS = {
+    "CP": "Contrato de Préstamo",
+    "CAF": "Banco de Desarrollo de América Latina y el Caribe",
+    "PPI": "Proyecto o Programa de Inversión",
+    "MOP": "Manual Operativo del Proyecto",
+    "EIAS": "Estudio de impacto Ambiental y Social",
+    "HNES": "Hospital Nacional El Salvador",
+    "PGAS": "Plan de Gestión Ambiental y Social",
+    "DEC": "Documento de Evaluación del Crédito",
+    "OE": "Organismo Ejecutor",
+    "UGP": "Unidad Gestora del Programa",
+    "IB": "Instrucciones Beneficiarias",
+    "POA": "Plan Operativo Anual",
+    "PAC": "Plan de Adquisiciones y Contrataciones",
+    "PEP": "Plan de Ejecución del Proyecto",
+    "CRM": "Gestión de Relaciones con Clientes",
+    "UCP": "Unidad de Compras Públicas",
+    "UFI": "Unidad Financiera Institucional",
+    "MARN": "Ministerio de Medio Ambiente y Recursos Naturales",
+    "SAFI": "Sistema de Administración Financiera Integrado",
+    "MED": "Ministerio de Educación de la Provincia de Jujuy",
+}
+
