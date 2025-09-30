@@ -1,0 +1,12 @@
+services:
+  premop:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: premop-refactor
+    ports:
+      - 8000:8000
+    volumes:
+      - .:/app
+      - ./backend:/app/backend
+    command: /bin/sh -c "while true; do poetry run python /app/backend/main.py; sleep 2; done"

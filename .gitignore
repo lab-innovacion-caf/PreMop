@@ -1,0 +1,54 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+log.txt
+
+# Poetry
+poetry.lock
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+
+# Build
+build/
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+*.tsbuildinfo
+
+# Vercel
+.vercel
+
+# Coverage
+coverage/
+
+temporalOutput/
+backend/generated_files/*.docx
